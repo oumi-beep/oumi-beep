@@ -24,7 +24,7 @@
         <br />
         <ul>
           <li>👨‍💻 I’m <strong>Oumaima EL Alami</strong>  <a href="https://github.com/oumi-beep/">Oum</a>.
-          <li>😍 Pronouns: She/Her/Hers.</li>
+          <li>😍 Pronouns: She/Her.</li>
           <li>🏢 I’m an IT & Data Engineering Student at ENSA Khouribga.</li>
           <li>📫 How to reach me: <a href="mailto:elalami20202021@gmail.com">Email</a>.</li>
           <li>- 🌐 Check out my portfolio: ·· still Working on it</li>
