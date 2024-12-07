@@ -18,4 +18,4 @@ Love interacting with the community, sharing knowledge, and learning new things.
 
 ---
 
-![Working](https://raw.githubusercontent.com/yourusername/yourusername/main/working-illustration.png)
+![aboutt](https://github.com/user-attachments/assets/a08c528a-13d3-4729-a75a-0bd0fae42682)
