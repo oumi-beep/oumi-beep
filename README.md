@@ -27,6 +27,7 @@
           <li>😍 Pronouns: She/Her/Hers.</li>
           <li>🏢 I’m an IT & Data Engineering Student at ENSA Khouribga.</li>
           <li>📫 How to reach me: <a href="mailto:elalami20202021@gmail.com">Email</a>.</li>
+          <li>- 🌐 Check out my portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)</li>
         </ul>
       </p>
     </td>
