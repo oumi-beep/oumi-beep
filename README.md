@@ -1,7 +1,8 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/a08c528a-13d3-4729-a75a-0bd0fae42682" alt="aboutt" width="200" />
+      <img src="![img1](https://github.com/user-attachments/assets/223acb2f-d4b1-404d-b534-20f4a479c6c2)
+" alt="aboutt" width="200" />
     </td>
     <td>
       <h1>Hi there, I'm OUMAIMA EL ALAMI 👋</h1>
