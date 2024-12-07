@@ -14,7 +14,7 @@ Love interacting with the community, sharing knowledge, and learning new things.
 - 👨‍💻 I’m [Oumaima EL alami] ([oumi-beep](https://github.com/oumi-beep/)).
 - 😍 Pronouns:  She/Her/Hers.
 - 🏢 I currently IT &DATA engeneering Student at ENSA KHOURIBGA.
-- 📫 How to reach me: (mailto:elalami20202021@gmail.com).
+- 📫 How to reach me: ([Oum](mailto:elalami20202021@gmail.com)).
 
 ---
 
