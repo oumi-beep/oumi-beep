@@ -25,7 +25,11 @@
         <li>🎓 IT & Data Engineering Student at ENSA Khouribga.</li>
         <li>📧 Reach me via <a href="mailto:elalami20202021@gmail.com">Email</a>.</li>
         <li>🌐 Portfolio: ·· still a work in progress!</li>
-        <li></li>
+        <li> 
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumi-beep&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+        </li>
+        
       </ul>
     </td>
   </tr>
