@@ -25,8 +25,6 @@
         <li>🎓 IT & Data Engineering Student at ENSA Khouribga.</li>
         <li>📧 Reach me via <a href="mailto:elalami20202021@gmail.com">Email</a>.</li>
         <li>🌐 Portfolio: ·· still a work in progress!</li>
-       
-        
       </ul>
     </td>
   </tr>
